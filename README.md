@@ -1,5 +1,5 @@
 Add some contrast to user and channel icons.
 
-Add some coloris to the chat log.
+Add some colors to the chat log.
 
 ![Preview](.preview.png)
