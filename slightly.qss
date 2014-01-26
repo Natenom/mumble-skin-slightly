@@ -1,7 +1,4 @@
-/*QTextEdit {
-     background-color: white;
-}*/
-
+License: Public Domain
 
 .log-time {
         color: red;
@@ -29,29 +26,9 @@
 	background: red;
 }
 
-/*QMainWindow {
-	qproperty-indentation: 10;
-}*/
-
 ServerView#qtwServers {
 	qproperty-animated: true;
 }
-
-/*UserView#qtvUsers {
-	qproperty-animated:true;*/
-	/*qproperty-indentation: 10;*/
-/*}*/
-
-/*UserView#qtvUsers {
-	selection-color: white;
-	background: qlineargradient(x1:0, y1:0, x2:0, y2:1,
-                 stop:0 #A2D23A, stop:1 #8FC911);
-
-}*/
-
-/*QTabWidget#RichTextEditor { 
-	qproperty-tabPosition:North;
-}*/
 
 QDockWidget#qdwLog::minimumSize {
     width: 10;
